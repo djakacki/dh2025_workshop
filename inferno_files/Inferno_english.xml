@@ -308,12 +308,12 @@
 
             <lg n="45" xml:id="lg045">
                <l n="133">All gaze upon him, and all do him honour.</l>
-               <l n="134">There I beheld both <persName xml:id="socr01">Socrates</persName> and Plato,</l>
+               <l n="134">There I beheld both <persName xml:id="socr01">Socrates</persName> and <persName type="real" xml:id="plat01">Plato</persName>,</l>
                <l n="135">Who nearer him before the others stand;</l>
             </lg>
 
             <lg n="46" xml:id="lg046">
-               <l n="136">Democritus, who puts the world on chance,</l>
+               <l n="136"><persName xml:id="demo01">Democritus</persName>, who puts the world on chance,</l>
                <l n="137">Diogenes, Anaxagoras, and Thales,</l>
                <l n="138">Zeno, Empedocles, and Heraclitus;</l>
             </lg>
