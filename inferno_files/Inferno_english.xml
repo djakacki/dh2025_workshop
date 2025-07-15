@@ -308,7 +308,7 @@
 
             <lg n="45" xml:id="lg045">
                <l n="133">All gaze upon him, and all do him honour.</l>
-               <l n="134">There I beheld both Socrates and Plato,</l>
+               <l n="134">There I beheld both <persName xml:id="socr01">Socrates</persName> and Plato,</l>
                <l n="135">Who nearer him before the others stand;</l>
             </lg>
 
